@@ -1,0 +1,6 @@
+{
+  "name": "CHODU CID",
+  "description": "College Ki Har Problem Ka CID! Student problem-solving and investigation platform led by Aryaveer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
